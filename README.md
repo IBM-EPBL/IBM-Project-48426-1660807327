@@ -5,6 +5,8 @@ TEAM ID: PNT2022TMID27512
 
 PROJECT TITLE: Efficient Water Quality Analysis and Prediction using Machine Learning
 
+Domain - Applied Data Science
+
 TEAM LEAD: Jaffrin Deno M 
 
 Team Member: Sharan Gonsalous Johni
